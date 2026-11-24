@@ -1,0 +1,7 @@
+build/
+*.o
+*.out
+*.ppm
+.DS_Store
+.env
+.env.*
